@@ -38,6 +38,8 @@ SmartSupport-Agent/
 **Live demo**
 click here[https://huggingface.co/spaces/sriya1011/SmartSupport-agent]
 
+---
+
 🏆 Project Context
 
 This project was developed as a submission for:
@@ -54,4 +56,4 @@ The goal is to demonstrate:
 ---
 
 👩‍💻 Author
-Sriya Sahu
+- Sriya Sahu
